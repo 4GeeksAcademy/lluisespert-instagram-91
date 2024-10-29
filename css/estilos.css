@@ -1,0 +1,43 @@
+.tamanyoImagen {
+
+    border: 1px solid #ddd;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+
+}
+
+.tamanyo2 {
+
+    padding: 5px;
+    width: 550px;
+    height: 400px;
+
+}
+
+.iconos {
+
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+
+}
+
+
+.bordeDiv {
+
+    border: 2px solid black;
+
+}
+
+.colorFondo {
+
+    background-color: black;
+
+}
+
+.colorFondo2 {
+
+    background-color: white;
+
+}
